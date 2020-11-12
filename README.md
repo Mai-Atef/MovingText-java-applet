@@ -1,2 +1,2 @@
 # MovingText-java-applet
-MovingText like "News Ticker"
+MovingText by UP DOWN LIFT RIGHT buttons in keyboard
